@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/LINDECKER-Charles/FM-InteractiveRatingComponent2)
-- Live Site URL: [Live site URL](https://fm-interactive-rating-component2-6n.vercel.app)
+- Solution URL: [Solution URL](https://github.com/LINDECKER-Charles/FM-FAQAccordion)
+- Live Site URL: [Live site URL](https://fm-faq-accordion-beige.vercel.app)
 
 ## My process
 
